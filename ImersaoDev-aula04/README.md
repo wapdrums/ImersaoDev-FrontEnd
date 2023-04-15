@@ -1,7 +1,7 @@
 # ImersaoDev-Aula04
 Arrays, lista e AluraFlix - Imersão dev JavaScript do zero - Alura
 
-- Para ver o projeto <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula04/">clique aqui </a>
+- Para ver o projeto <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula04/">clique aqui </a>
 Na quarta e quinta aula, eu construí o AluraFlix, um site para listar filmes e séries. Na quarta aula, eu fiz uma página que exibe meus filmes e séries favoritos, enquanto na quinta aula, eu adicionei a funcionalidade para que o usuário pudesse adicionar seus próprios filmes e séries favoritos. HTML e CSS foram usados para estruturar e estilizar a página, enquanto o JavaScript foi usado para adicionar e remover filmes da lista.
 
 ![image](https://user-images.githubusercontent.com/74818185/232245066-411ef4fa-a1cb-4f70-a57d-a0d6ee23faa7.png)
