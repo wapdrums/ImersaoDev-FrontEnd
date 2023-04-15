@@ -2,7 +2,7 @@
 Aula 01 - Calculadora de media -  Variáveis, operações e média - Imersão Dev - ALURA
 (imprimindo no console a media de alunos.)
 
-- Para ver o projeto <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula01/">clique aqui</a>
+- Para ver o projeto <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula01/">clique aqui</a>
 
 Na primeira aula, eu criei uma calculadora de média, utilizando HTML para estruturar a página e CSS para a estilização visual. Com JavaScript, eu implementei a lógica para calcular a média das notas informadas pelo usuário.
 
