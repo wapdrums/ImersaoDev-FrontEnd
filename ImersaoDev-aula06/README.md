@@ -1,7 +1,7 @@
 # imersaodev-aula06
 Objetos e tabela de classificação
 
-Para ver o projeto <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula06/"> clique aqui </a>
+Para ver o projeto <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula06/"> clique aqui </a>
 
 Na sexta aula, eu criei uma tabela de classificação para jogos, utilizando HTML e CSS para estruturar e estilizar a página, e JavaScript para adicionar e remover jogadores e atualizar as pontuações.
 
