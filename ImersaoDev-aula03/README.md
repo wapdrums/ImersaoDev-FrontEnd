@@ -1,7 +1,7 @@
 # ImersaoDev-aula03
 Jogo "O mentalista" - Imersão dev - aula 03
 
-- Para ver o projeto <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula03/">clique aqui</a>
+- Para ver o projeto <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula03/">clique aqui</a>
 
 Na terceira aula, eu desenvolvi um jogo mentalista, no qual o computador escolhe um número aleatório e o usuário tenta adivinhar qual é esse número por meio de dicas. A página foi estruturada com HTML e estilizada com CSS, e a lógica do jogo foi implementada com JavaScript.
 
