@@ -1,7 +1,7 @@
 # ImersaoDev-Aula2
 Conversor de moedas - Imersão Dev Aula 02 - Alura
 
-- Para ver o projeto <a href="https://mayaraplaza.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula02/">clique aqui</a>
+- Para ver o projeto <a href="https://wapdrums.github.io/ImersaoDev-FrontEnd/ImersaoDev-aula02/">clique aqui</a>
 
 Na segunda aula, eu fiz um conversor de moedas, utilizando novamente HTML e CSS para estruturar e estilizar a página, e JavaScript para fazer a conversão de valores entre duas moedas diferentes.
 
